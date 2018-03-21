@@ -1,0 +1,115 @@
+header, nav, body, ul, li, a, main {
+	border: solid 1px red;	
+	margin: 5px;
+}
+div {
+	border-color: solid 1px blue;
+}
+body {
+	font-family: Lucida, Monaco, monospace;
+	font-size: 100%;
+}
+.BackgroundPicture {
+	background-image: url("modern.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
+	background-size: 100% auto;
+	height: 100%;
+	width: 100%;
+}
+/*
+.BoxTransp {
+	margin: 0px;
+	background: rgba(210, 216, 219, 0.6);
+	
+}
+*/
+.SiteTitle{
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+.HeaderStyle{
+	color: #CF2D0D;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+	font-size: 20px;
+}
+.NavStyle {
+	margin-top: 170px;
+	margin-left: 0;
+	background-color: rgba(26, 165, 144, 0.4);
+
+}
+
+.NavStyle ul {
+	
+	text-align: center;
+	list-style-type: none;
+	padding: 0;
+
+} 
+.NavStyle li {
+	display: inline-block;
+	text-align: center;
+	padding: 10px;	
+
+}
+.NavStyle a {
+	text-decoration: none;
+	color: #CF2D0D;
+	padding: 15px;
+	font-weight: bold;
+}
+.NavStyle a:hover{
+  background-color: #CF2D0D;
+  color: #1AA590;
+  border-radius: 1px;
+} 
+.MainStyle {
+	margin-top: 270px;	
+	overflow: auto;
+}
+.MainStyle h2, h3 {
+	color: #CF2D0D;
+	font-weight: bold;
+}
+.GalleryBox {	
+	display: inline-block;
+	float: left;
+	width: 25%;
+	box-sizing: border-box;
+}
+.Gallery-item-outer {
+	border: 1px solid #a4dffc;
+}
+
+/* stop here
+
+
+.transpImg {
+	margin: 0;
+	padding: 0;
+	background-color: #C9F6F9;
+	opacity: 0.5;
+}
+
+
+
+	
+	
+}
+	
+.title {
+	color: #8D230F;
+	text-align: center;
+	opacity: 1;	
+}
+*/
+
+
+
+
+
