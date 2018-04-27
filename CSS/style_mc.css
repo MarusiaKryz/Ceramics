@@ -1,51 +1,105 @@
-header, nav, body, ul, li, a, main {
-	border: solid 1px red;	
-	margin: 5px;
-}
-div {
-	border-color: solid 1px blue;
+/*header {
+	border: solid 2px brown;	
 }
 body {
-	font-family: Lucida, Monaco, monospace;
-	font-size: 100%;
+	border: solid 2px green;	
 }
-.BackgroundPicture {
-	background-image: url("modern.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: top;
+main {
+	border: solid 2px yellow;	
+}
+div {
+	border: solid 1px blue;
+}
+nav {
+	border: solid 1px red;
+}*/
+
+
+
+body {
+	font-family: sans-serif;
+	font-style: normal;
+	font-size: 20px;
+	background-color: rgb(110, 216, 199);
 	background-size: 100% auto;
-	height: 100%;
-	width: 100%;
 }
-/*
-.BoxTransp {
-	margin: 0px;
-	background: rgba(210, 216, 219, 0.6);
-	
-}
-*/
-.SiteTitle{
+
+.HeaderIcon {
 	position: fixed;
-	width: 100%;
+	left: 0;
 	top: 0;
+	width: 100%;
+	height: auto;
 }
-.HeaderStyle{
-	color: #CF2D0D;
+
+.HeaderIcon i{
+	margin: 20px;
+	font-size:40px; 
+	color: white;	
+}
+
+.HeaderIcon i:hover{
+	color: coral;
+}
+
+.HeaderTitle{
+	color: rgb(255, 255, 255);
 	font-weight: bold;
 	text-align: center;
-	margin: 0;
-	font-size: 20px;
+	margin-top: 0px;
+	font-size: 24px;
+	padding: 28px;
 }
-.NavStyle {
-	margin-top: 170px;
-	margin-left: 0;
-	background-color: rgba(26, 165, 144, 0.4);
+.HeaderTitle h1 {
+	color: coral;
+}
 
+.Gallery {
+	text-align: center;
+	padding: auto;
+	margin-top: 30px;
 }
+
+.Gallery i{
+	font-size:56px;
+	color: white; 
+	align-content: center;
+}
+
+.Gallery i :hover{
+  color: coral;
+} 
+
+.Gallery a{
+	display: inline-block;
+	width: 30%;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+}
+
+.Gallery a :hover{
+  color: coral;
+} 
+
+.Lang {
+	float: left;
+	color: white;
+	font-size: 20px;
+	margin-top: 105px;
+	margin-left: 20px; 
+}
+
+.NavStyle {
+	margin-left: 0;
+	margin-top: 160px;
+	width: 100%;
+	background-color: rgba(26, 165, 144, 0.6);
+	font-size: 15px;
+	padding: 10px;
+	}
 
 .NavStyle ul {
-	
 	text-align: center;
 	list-style-type: none;
 	padding: 0;
@@ -54,27 +108,38 @@ body {
 .NavStyle li {
 	display: inline-block;
 	text-align: center;
-	padding: 10px;	
+	padding: 5px;	
 
 }
 .NavStyle a {
 	text-decoration: none;
-	color: #CF2D0D;
+	color: rgb(255, 255, 255);
 	padding: 15px;
 	font-weight: bold;
 }
 .NavStyle a:hover{
-  background-color: #CF2D0D;
-  color: #1AA590;
-  border-radius: 1px;
+  color: coral;
 } 
+
+/*
 .MainStyle {
 	margin-top: 270px;	
 	overflow: auto;
 }
-.MainStyle h2, h3 {
-	color: #CF2D0D;
+.MainStyle a {
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+	}
+.Gallery a:hover{
+  color: coral;
+} 
+.MainStyle h3 {
+	color: rgb(255, 255, 255);
 	font-weight: bold;
+}
+.MainStyle p {
+	color: rgb(255, 255, 255);
+
 }
 .GalleryBox {	
 	display: inline-block;
@@ -84,30 +149,30 @@ body {
 }
 .Gallery-item-outer {
 	border: 1px solid #a4dffc;
-}
-
-/* stop here
-
-
-.transpImg {
-	margin: 0;
-	padding: 0;
-	background-color: #C9F6F9;
-	opacity: 0.5;
-}
-
-
-
-	
-	
-}
-	
-.title {
-	color: #8D230F;
+}*/
+.Contacts {
+	margin-top: 30px;
 	text-align: center;
-	opacity: 1;	
+	color: white;
+	font-size: 15px;
 }
-*/
+
+.Contacts h1 {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.Contacts div {
+	display: inline-block;
+	padding-left: 10px;
+	text-align: left;
+	margin: 20px;
+}
+footer {
+	text-align: center;
+	margin-bottom: 0px;
+	background-color: rgba(26, 165, 144, 0.6);
+	font-size: 15px;
+}
 
 
 
