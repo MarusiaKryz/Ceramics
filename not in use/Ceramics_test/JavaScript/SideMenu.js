@@ -1,7 +1,6 @@
 function sideMenu() {
     var content = document.getElementById('PageContent');
-    var contentParent = content.parentNode;
-        contentParent.removeChild(content);
+    content.parentNode.removeChild(content);
 
     var sideMenuCreate;
     var sideMenuItemNames, itemNamesLeng, i;
@@ -14,22 +13,12 @@ function sideMenu() {
     }
     sideMenuCreate += "</ul>";
 
-    var closeIcon;
-    closeIcon = '<i class="fa fa-close" id="XBtn"></i>';
-
+    var addCloseIcon;
+    addCloseIcon = '<i class="fa fa-close"></i>'
 
     var addLang;
     addLang = '<p><span>UK</span> <span> | </span> <span>EN</span></p>';
 
-    document.getElementById("SideMenu").innerHTML = sideMenuCreate + closeIcon + addLang;
-
-
-    var closeXBtn = document.getElementById("XBtn");
-
-    var closeSideMenu = function () {
-        document.getElementById("SideMenu").style.display = "none";
-        contentParent.appendChild(content);
-    };
-   closeXBtn.addEventListener("click", closeSideMenu);
+    document.getElementById("SideMenu").innerHTML = sideMenuCreate + addCloseIcon + addLang;
 }
 
