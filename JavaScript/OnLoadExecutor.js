@@ -1,5 +1,5 @@
 function onLoadExecutor() {
     addRegForm();
     addSignInForm();
-    Contact();
+    ContactGo();
 }

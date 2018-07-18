@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+
+    <title>Ceramics</title>
+    <link rel="stylesheet" type="text/css" href="CSS_Ceramics.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="favicon.pgn" type="image/pgn" sizes="16x16">
+    <script src="JavaScript/EN_HomePage.js"></script>
+    <script src="JavaScript/UK_HomePage.js"></script>
+    <script src="JavaScript/SideMenu.js"></script>
+    <script src="JavaScript/OptClient.js"></script>
+    <script src="JavaScript/RegistrationForm.js"></script>
+    <script src="JavaScript/RegistrSubmit.js"></script>
+    <script src="JavaScript/RegistrValidation.js"></script>
+    <script src="JavaScript/SignInForm.js"></script>
+    <script src="JavaScript/ContactGo.js"></script>
+    <script src="JavaScript/OnLoadExecutor.js"></script>
+    <script src="JavaScript/GoHome.js"></script>
+</head>
+
+<body onload = "onLoadExecutor()">
+<div id = 'HomePage'>
+<div id="SideMenu">
+</div>
+<div id="LoginForm">
+</div>
+<div id="PageContent">
+<!--HEADER-->
+<header>
+    <div class="HeaderIcon">
+        <!--<a href="HomePage.html"></a> -->
+        <i onclick="goHome()" class="fa fa-home" style="float: left; margin-left: 1em"></i>
+        <i onclick="sideMenu()" class="fa fa-bars" style="float: right; margin-right: 1em"></i>
+    </div>
+    <div class="HeaderTitle">
+
+        <h1>КЕРАМІЧНІ СУВЕНІРИ З НАДВІРНОЇ</h1>
+        <h2>
+            <small>NADVIRNA CERAMIC SOUVENIRS</small>
+        </h2>
+    </div>
+</header>
+<!--HEADER-->
+
+<!--MAIN SECTION-->
+<main>
+
+    <!--Gallery-->
+    <div class="Gallery">
+        <a href="Html/GalleryView.html">
+            <i class="fa fa-file-image-o"></i>
+            <p>Галерея</p>
+        </a>
+        <a href="#">
+            <i class="fa fa-play-circle-o"></i>
+            <p>Про нас</p>
+        </a>
+    </div>
+    <!--Gallery-->
+
+    <!--Language-->
+    <div class="Lang">
+        <p>
+            <span id="EN" onclick="changeToEng()"> EN</span>
+            <span id="UK" onclick="changeToUkr()" style = "text-decoration: underline"> UK</span>
+        </p>
+    </div>
+    <!--Language-->
+
+    <!--NAVIGATION-->
+    <div class="Navigation">
+        <nav class="NavStyle">
+            <ul>
+                <li onclick="goHome()">Головна</li>
+                <li>Придбати</li>
+                <li id="Wholesale" onclick="loadDoc()">Оптовим клієнтам</li>
+                <li>Доставка і оплата</li>
+                <li id="Contact">Контакти</li>
+                <li id="SignUp">Зареєструватися</li>
+                    <template id="RegFormTemp">
+                        <div id="RegistrationForm">
+                        <form action="http://localhost:8082/user" method="post">
+                            <p>Зареєструватися
+                                <span class="closeBtn">X</span>
+                            </p>
+                            Назва компанії:
+                            <input title="Назва компанії" class = "RegForm" onfocusout ="validField()" name="companyName" type="text" required>
+                            <br>
+                            Email:
+                            <br>
+                            <input title="Email" class = "RegForm" onfocusout="validField()" name="email" type="email" required>
+                            <br>
+                            Пароль:
+                            <br>
+                            <input title="Пароль" class = "RegForm" onfocusout ="validField()" name="pswrd" type="password" required>
+                            <br>
+                            Адреса:
+                            <br>
+                            <input title="Адреса" class = "RegForm" onfocusout ="validField()" name="address" type="text" required>
+                            <br>
+                            ЄДРПОУ:
+                            <br>
+                            <input title="ЄДРПОУ" class = "RegForm" onfocusout ="validField()" name="companyCode" type="number" required>
+                            <br>
+                            Директор:
+                            <br>
+                            <input title="Директор" class = "RegForm" onfocusout ="validField()" name="manager" type="text" required>
+                            <br>
+                            <div id="FormBtn">
+                                <input value="Відмінити" type="reset" class="FormBtnR">
+                                <input value="Підтвердити" type="submit" id="FormBtnS" onclick="submitRegForm()">
+                                <p id = "MessageValidation"></p>
+                            </div>
+                        </form>
+                        </div>
+                    </template>
+                <li id="SignIn">Увійти</li>
+            </ul>
+        </nav>
+    </div>
+    <!--NAVIGATION-->
+</main>
+<!--MAIN SECTION-->
+
+<!--Contacts-->
+<div id="Contacts">
+    <h1>КОНТАКТНА ІНФОРМАЦІЯ</h1>
+    <div>
+        <p>
+            вул. О.Степанівни,<br>
+            м. Надвірна, 76000 <br>
+            обл.Івано-Франківська
+        </p>
+    </div>
+    <div>
+        <p>
+            тел.: 097-777-7777<br>
+            e-mail: ceramics@gmail.com<br><br>
+        </p>
+    </div>
+</div>
+<!--Contacts-->
+
+<!--MAP-->
+<div id="map" style="width:100%;height:400px;">
+    <script>
+        function initMap() {
+            var mapAddress = {lat: 48.627721, lng: 24.559188};
+            var map = new google.maps.Map(document.getElementById('map'), {
+                center: mapAddress,
+                zoom: 8
+            });
+
+            var marker = new google.maps.Marker({
+                position: mapAddress,
+                map: map
+            });
+        }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDlK3o4Gi-Mp2XjL3m3d08MQrrXo2jKFp0&callback=initMap"
+            async defer>
+    </script>
+</div>
+<!--MAP-->
+
+<!--FOOTER-->
+<footer>
+    <div>
+        <p>©Nadvirna ceramic souvenirs 2018</p>
+    </div>
+</footer>
+<!--FOOTER-->
+</div>
+</div>
+</body>
+
+</html>

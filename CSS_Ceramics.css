@@ -206,22 +206,23 @@ footer {
 
 }
 
-#RegistrationForm {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    /*padding-top: 7em;/* Location of the box */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgba(0,0,0,0.3); /* Black w/ opacity */
+/*#RegistrationForm {
+ /*   display: none; /* Hidden by default */
+/*   position: fixed; /* Stay in place */
+/*   z-index: 1; /* Sit on top */
+/*   /*padding-top: 7em;/* Location of the box */
+/*   left: 0;
+   top: 0;
+   width: 100%; /* Full width */
+/*  height: 100%; /* Full height */
+/*  overflow: auto; /* Enable scroll if needed */
+/*  background-color: rgba(0,0,0,0.3); /* Black w/ opacity */
 
 
-}
+
 #RegistrationForm form {
     position: fixed;
+    z-index: 1;
     top: 5%;
     left: 20%;
     right: 20%;
@@ -248,42 +249,6 @@ footer {
 #RegistrationForm input {
     height: 2em;
     width: 85%;
-
-}
-
-#SignBox {
-    width: 50%;
-    height: 5em;
-    background-color: white;
-    margin-bottom: 1em;
-}
-
-.signDotClass {
-    background: black;
-    width: 3px;
-    height: 3px;
-    border-radius: 2px;
-    position: absolute;
-    top: 0em;
-    left: 0em;
-}
-
-.FormBtn {
-    text-align: center;
-    padding-right: 10%;
-    padding-left: 10%;
-    float: left;
-    display: inline-block;
-}
-
-.FormBtn input{
-    color: rgb(26, 165, 144);
-    width: 10em;
-
-
-}
-.FormBtnR {
-
 
 }
 
@@ -335,15 +300,34 @@ html, body {
 #LoginForm input {
     height: 2em;
     width: 85%;
-
 }
+
+#FormBtn input{
+    color: rgb(26, 165, 144);
+    font-weight: bolder;
+    display: inline;
+    width: 25%;
+    margin-top: 5em;
+    margin-left: 7em;
+}
+/*
 .Gallery-item-outer img {
-    display: inline-block;
+    display: inline;
     float: left;
     border: #00b3ff solid 3px;
 }
+.GalleryBox {
+    display: inline-block;
+}
 
 
+input:invalid {
+    border: 2px solid red;
+}
+input:valid {
+    border: 2px solid black;
+}
 
+*/
 
 

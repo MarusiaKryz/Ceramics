@@ -51,12 +51,12 @@ function addSignInForm () {
             '</div>\n' +
             '</form>';
 
-        if (document.getElementById("UK").innerText = 'UK')
+        if (document.getElementById("UK").tagName= "span")
         {
             SignInForm.innerHTML = insertFormUK;
             SignInForm.style.display = "block";
         }
-        else
+        else if (document.getElementById("UK").tagName = "a")
             {
             SignInForm.innerHTML = insertFormEN;
             SignInForm.style.display = "block";
