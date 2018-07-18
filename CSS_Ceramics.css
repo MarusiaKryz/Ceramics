@@ -1,0 +1,333 @@
+/*header {
+    border: solid 2px black;
+}
+
+div {
+    border: solid 1px blue;
+}
+
+body {
+    border: solid 2px green;
+}
+
+main {
+    border: solid 2px yellow;
+}
+
+nav {
+    border: solid 1px red;
+}
+
+i {
+    border: solid 1px purple;
+}
+
+a {
+    border: solid 1px orange;
+}*/
+
+body {
+
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 100%;
+    background-color: rgb(110, 216, 199);
+    background-size: 100% auto;
+    color: white;
+}
+
+.HeaderIcon {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.HeaderIcon i {
+    color: white;
+    margin-top: 0.5em;
+    font-size: 2.5em;
+}
+
+.HeaderIcon i:hover {
+    color: rgb(26, 165, 144);
+}
+
+.HeaderTitle {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3.5em;
+}
+
+.HeaderTitle h1 {
+    color: crimson;
+    font-size: 2.5em;
+}
+
+.Gallery {
+    text-align: center;
+    height: 15em;
+}
+
+.Gallery i {
+    font-size: 5em;
+    color: white;
+    align-content: center;
+}
+
+.Gallery i :hover {
+    color: rgb(26, 165, 144);
+}
+
+.Gallery a {
+    margin-top: 2.5em;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+}
+
+.Gallery a :hover {
+    color: rgb(26, 165, 144);
+}
+
+.Lang {
+    width: 100%;
+    height: 3em;
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    padding-left: 1em;
+}
+
+.Lang a {
+    text-decoration: none;
+    color: white;
+    background-color: transparent;
+}
+.Lang a:hover {
+    color: rgb(26, 165, 144);
+}
+
+.Lang span:hover {
+    color: rgb(26, 165, 144);
+}
+
+.Navigation {
+    margin-top: 0.5em;
+}
+
+.NavStyle {
+    width: 100%;
+    background-color: rgba(26, 165, 144, 0.6);
+    height: 4.5em;
+}
+
+.NavStyle ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+.NavStyle li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    padding: 0.7em;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.NavStyle li:hover {
+    background-color: rgba(26, 165, 144, 0.85);
+}
+
+#Contacts {
+    margin-top: 3.5em;
+    margin-bottom: 1em;
+    text-align: center;
+    color: white;
+    font-size: 1em;
+}
+
+#Contacts h1 {
+    margin-bottom: 5px;
+}
+
+#Contacts div {
+    display: inline-block;
+    padding-left: 1em;
+    text-align: left;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 0px;
+    background-color: rgba(26, 165, 144, 0.6);
+    font-size: 1em;
+}
+#SideMenu div {
+    border: solid 1px purple;
+}
+#SideMenu ul  {
+    list-style-type: none;
+    font-size: 2em;
+    width: fit-content;
+    float: left;
+}
+#SideMenu li {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    width: fit-content;
+}
+
+#SideMenu li:hover {
+    color: rgb(26, 165, 144);
+}
+
+#SideMenu i {
+    float: right;
+    margin-top: 0.5em;
+    margin-right: 1em;
+    font-size: 2em;
+}
+
+#SideMenu p {
+    font-size: 1.5em;
+    float: right;
+    clear: left;
+    margin-right: 1em;
+    background-color: rgba(26, 165, 144, 0.6);
+
+}
+
+/*#RegistrationForm {
+ /*   display: none; /* Hidden by default */
+/*   position: fixed; /* Stay in place */
+/*   z-index: 1; /* Sit on top */
+/*   /*padding-top: 7em;/* Location of the box */
+/*   left: 0;
+   top: 0;
+   width: 100%; /* Full width */
+/*  height: 100%; /* Full height */
+/*  overflow: auto; /* Enable scroll if needed */
+/*  background-color: rgba(0,0,0,0.3); /* Black w/ opacity */
+
+
+
+#RegistrationForm form {
+    position: fixed;
+    z-index: 1;
+    top: 5%;
+    left: 20%;
+    right: 20%;
+    bottom: 5%;
+    background-color: rgb(110, 216, 199);
+    border: white inset 0.3em;
+    padding-left: 2em;
+
+}
+
+#RegistrationForm p {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0.5em;
+}
+
+.closeBtn {
+    float: right;
+}
+#RegistrationForm span:hover {
+    color: crimson;
+}
+
+#RegistrationForm input {
+    height: 2em;
+    width: 85%;
+
+}
+
+
+html, body {
+    height: 100%;
+    margin: 0;         /* Reset default margin on the body element */
+}
+
+
+/*SignInForm*/
+
+#LoginForm {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    /*padding-top: 7em;/* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.3); /* Black w/ opacity */
+
+
+}
+#LoginForm form {
+    position: fixed;
+    top: 10%;
+    left: 25%;
+    right: 25%;
+    bottom: 20%;
+    background-color: rgb(110, 216, 199);
+    border: white inset 0.3em;
+    padding-left: 2em;
+
+}
+
+#LoginForm p {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0.5em;
+}
+
+#LoginForm span:hover {
+    color: crimson;
+}
+
+#LoginForm input {
+    height: 2em;
+    width: 85%;
+}
+
+#FormBtn input{
+    color: rgb(26, 165, 144);
+    font-weight: bolder;
+    display: inline;
+    width: 25%;
+    margin-top: 5em;
+    margin-left: 7em;
+}
+/*
+.Gallery-item-outer img {
+    display: inline;
+    float: left;
+    border: #00b3ff solid 3px;
+}
+.GalleryBox {
+    display: inline-block;
+}
+
+
+input:invalid {
+    border: 2px solid red;
+}
+input:valid {
+    border: 2px solid black;
+}
+
+*/
+
+

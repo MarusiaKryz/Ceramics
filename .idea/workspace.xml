@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57304fdd-2dd8-486c-92b2-ea3ba9641dbd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_Ceramics.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_Ceramics.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/ENG_HomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/ContactGo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/OnLoadExecutor.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/OnLoadExecutor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/RegistrationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/RegistrationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/SideMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/SideMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/SignInForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/SignInForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UKR_HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/HomePage.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ceramics" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HomePage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomePage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="108" column="50" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#main#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrSubmit.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/RegistrSubmit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrValidation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/RegistrValidation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib.dom.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228750">
+              <caret line="15263" column="6" selection-start-line="15263" selection-start-column="6" selection-end-line="15263" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSS_Ceramics.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4950">
+              <caret line="330" column="2" selection-start-line="330" selection-start-column="2" selection-end-line="330" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ho</find>
+      <find>\</find>
+      <find>hov</find>
+      <find>cor</find>
+      <find>darkr</find>
+      <find>oran</find>
+      <find>dark</find>
+      <find>en</find>
+      <find>span</find>
+      <find>lan</find>
+      <find>side</find>
+      <find>Sign</find>
+      <find>la</find>
+      <find>input</find>
+      <find>sign</find>
+      <find>close</find>
+      <find>galleryV</find>
+      <find>contacts</find>
+      <find>con</find>
+      <find>formB</find>
+      <find>galler</find>
+      <find>\n' +</find>
+      <find>template</find>
+      <find>backg</find>
+      <find>reg</find>
+      <find>formb</find>
+      <find>op</find>
+      <find>\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/JavaScript</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RegistrationForm.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/JavaScript/test" />
+        <option value="$PROJECT_DIR$/JavaScript/testF.html" />
+        <option value="$PROJECT_DIR$/LanguageChange.js" />
+        <option value="$PROJECT_DIR$/English_HomePage.html" />
+        <option value="$PROJECT_DIR$/CeramicsHome.html" />
+        <option value="$PROJECT_DIR$/JavaScript/OnloadExecutor.js" />
+        <option value="$PROJECT_DIR$/JavaScript/LanguageChange.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Signature.js" />
+        <option value="$PROJECT_DIR$/not in use/Ceramics_test/JavaScript/RegistrationForm.js" />
+        <option value="$PROJECT_DIR$/Html/GalleryView.html" />
+        <option value="$PROJECT_DIR$/CeramicsMainPage.html" />
+        <option value="$PROJECT_DIR$/Html/English_HomePage.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Contact.js" />
+        <option value="$PROJECT_DIR$/Html/ENG_HomePage.html" />
+        <option value="$PROJECT_DIR$/JavaScript/SignInForm.js" />
+        <option value="$PROJECT_DIR$/Html/RegisterName.html" />
+        <option value="deca52f3-0506-49a3-b4bc-279e276d47ef/consoles/Ceramics 1" />
+        <option value="deca52f3-0506-49a3-b4bc-279e276d47ef/consoles/Ceramics" />
+        <option value="$PROJECT_DIR$/JavaScript/OnLoadExecutor.js" />
+        <option value="$PROJECT_DIR$/JavaScript/OptClient.js" />
+        <option value="$PROJECT_DIR$/GoHome.js" />
+        <option value="$PROJECT_DIR$/UKR_HomePage.html" />
+        <option value="$PROJECT_DIR$/JavaScript/GoHome.js" />
+        <option value="$PROJECT_DIR$/JavaScript/SideMenu.js" />
+        <option value="$PROJECT_DIR$/JavaScript/RegistrationForm.js" />
+        <option value="$PROJECT_DIR$/JavaScript/ENG_HomePage.js" />
+        <option value="$PROJECT_DIR$/UK_HomePage.js" />
+        <option value="$PROJECT_DIR$/JavaScript/UK_HomePage.js" />
+        <option value="$PROJECT_DIR$/JavaScript/EN_HomePage.js" />
+        <option value="$PROJECT_DIR$/CSS_Ceramics.css" />
+        <option value="$PROJECT_DIR$/HomePage.html" />
+        <option value="$PROJECT_DIR$/JavaScript/RegistrValidation.js" />
+        <option value="$PROJECT_DIR$/JavaScript/RegistrSubmit.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ceramics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ceramics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ceramics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ceramics" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaScript" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.HomePage.html">
+    <configuration name="HomePage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ceramics/HomePage.html" />
+    <configuration name="testF.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ceramics/JavaScript/testF.html" />
+    <configuration name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ceramics/test.html" />
+    <configuration name="RegistrationForm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="RegistrationForm.js" working-dir="$PROJECT_DIR$/JavaScript" />
+    <list>
+      <item itemvalue="JavaScript Debug.HomePage.html" />
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="JavaScript Debug.testF.html" />
+      <item itemvalue="Node.js.RegistrationForm.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.HomePage.html" />
+        <item itemvalue="Node.js.RegistrationForm.js" />
+        <item itemvalue="JavaScript Debug.testF.html" />
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57304fdd-2dd8-486c-92b2-ea3ba9641dbd" name="Default" comment="" />
+      <created>1525003510749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525003510749</updated>
+      <workItem from="1525003513214" duration="28880000" />
+      <workItem from="1525526959001" duration="91859000" />
+      <workItem from="1530487341454" duration="1203000" />
+      <workItem from="1530551562659" duration="507000" />
+      <workItem from="1530553656497" duration="816000" />
+      <workItem from="1530555476433" duration="945000" />
+      <workItem from="1530644054108" duration="1449000" />
+      <workItem from="1530645880064" duration="1325000" />
+      <workItem from="1530692413700" duration="1722000" />
+      <workItem from="1530694257094" duration="1608000" />
+      <workItem from="1530696167202" duration="1164000" />
+      <workItem from="1530698023193" duration="1495000" />
+      <workItem from="1530700198474" duration="1700000" />
+      <workItem from="1530702036184" duration="693000" />
+      <workItem from="1530736004240" duration="143000" />
+      <workItem from="1530744340005" duration="446000" />
+      <workItem from="1530744952680" duration="755000" />
+      <workItem from="1530765322651" duration="270000" />
+      <workItem from="1530796135313" duration="725000" />
+      <workItem from="1530797977708" duration="384000" />
+      <workItem from="1530822992920" duration="485000" />
+      <workItem from="1530826403826" duration="1680000" />
+      <workItem from="1530828294421" duration="1191000" />
+      <workItem from="1530842873946" duration="975000" />
+      <workItem from="1530843920477" duration="110000" />
+      <workItem from="1530844041782" duration="477000" />
+      <workItem from="1530845779891" duration="332000" />
+      <workItem from="1530909779074" duration="1585000" />
+      <workItem from="1530911632711" duration="1783000" />
+      <workItem from="1530913450516" duration="294000" />
+      <workItem from="1530928310141" duration="975000" />
+      <workItem from="1530930141528" duration="416000" />
+      <workItem from="1530964014268" duration="1475000" />
+      <workItem from="1530965854137" duration="1095000" />
+      <workItem from="1530971127239" duration="747000" />
+      <workItem from="1530973025230" duration="1483000" />
+      <workItem from="1531002891736" duration="1654000" />
+      <workItem from="1531004730549" duration="401000" />
+      <workItem from="1531013897357" duration="1774000" />
+      <workItem from="1531015716405" duration="489000" />
+      <workItem from="1531029367680" duration="785000" />
+      <workItem from="1531082047707" duration="1109000" />
+      <workItem from="1531083921534" duration="1758000" />
+      <workItem from="1531085741320" duration="1749000" />
+      <workItem from="1531087575175" duration="1825000" />
+      <workItem from="1531089502163" duration="358000" />
+      <workItem from="1531153380062" duration="1665000" />
+      <workItem from="1531156405831" duration="1400000" />
+      <workItem from="1531158222411" duration="1708000" />
+      <workItem from="1531160434007" duration="1617000" />
+      <workItem from="1531162366850" duration="1627000" />
+      <workItem from="1531164183130" duration="658000" />
+      <workItem from="1531177613910" duration="944000" />
+      <workItem from="1531186010306" duration="1677000" />
+      <workItem from="1531191065024" duration="527000" />
+      <workItem from="1531223034922" duration="836000" />
+      <workItem from="1531255030784" duration="204000" />
+      <workItem from="1531258923371" duration="1787000" />
+      <workItem from="1531260802338" duration="1093000" />
+      <workItem from="1531264199174" duration="403000" />
+      <workItem from="1531276597762" duration="1158000" />
+      <workItem from="1531311926000" duration="1589000" />
+      <workItem from="1531313767537" duration="612000" />
+      <workItem from="1531324340012" duration="940000" />
+      <workItem from="1531326160455" duration="1266000" />
+      <workItem from="1531328790598" duration="788000" />
+      <workItem from="1531331193416" duration="1716000" />
+      <workItem from="1531333851244" duration="1639000" />
+      <workItem from="1531336020672" duration="1342000" />
+      <workItem from="1531345734616" duration="1658000" />
+      <workItem from="1531347882907" duration="1944000" />
+      <workItem from="1531364579713" duration="610000" />
+      <workItem from="1531397670794" duration="473000" />
+      <workItem from="1531403305798" duration="1599000" />
+      <workItem from="1531418081132" duration="1665000" />
+      <workItem from="1531419904592" duration="1627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201866000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="716" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.25019857" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" order="2" sideWeight="0.4925" weight="0.32962668" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" sideWeight="0.4988086" weight="0.32998326" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50119144" side_tool="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.505" side_tool="true" weight="0.25019857" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998326" />
+      <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.25019857" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49921876" weight="0.64451826" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33221477" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="DB Execution Console" order="9" sideWeight="0.4988086" weight="0.32998326" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.25019857" />
+      <window_info id="Structure" order="1" sideWeight="0.505" side_tool="true" weight="0.25019857" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="DB Browser" order="2" sideWeight="0.4925" weight="0.32962668" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49921876" weight="0.64451826" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3338843" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32998326" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50119144" side_tool="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="3" sideWeight="0.50119334" side_tool="true" weight="0.25019857" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>document.getElementById('closeBtn')</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>document.getElementById(&quot;&quot;)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="14" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html/ENG_HomePage.html" />
+    <entry file="file://$PROJECT_DIR$/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/SignInForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/ContactGo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html/GalleryView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="151" column="13" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html/GalleryView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5085">
+          <caret line="339" column="23" selection-start-line="339" selection-start-column="23" selection-end-line="339" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/SignInForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html/GalleryView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5085">
+          <caret line="339" column="16" selection-start-line="339" selection-start-column="16" selection-end-line="339" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html/ENG_HomePage.html" />
+    <entry file="file://$PROJECT_DIR$/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/RegistrationForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/SignInForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/OnLoadExecutor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5010">
+          <caret line="334" column="10" selection-start-line="334" selection-start-column="10" selection-end-line="334" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="78" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/SideMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="70" lean-forward="true" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2655">
+          <caret line="177" column="1" lean-forward="true" selection-start-line="177" selection-start-column="1" selection-end-line="177" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegistrationForm.js" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/test" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/testF.html" />
+    <entry file="file://$PROJECT_DIR$/LanguageChange.js" />
+    <entry file="file://$PROJECT_DIR$/English_HomePage.html" />
+    <entry file="file://$PROJECT_DIR$/CeramicsHome.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/Signature.js" />
+    <entry file="file://$PROJECT_DIR$/not in use/Ceramics_test/JavaScript/RegistrationForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html/GalleryView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://deca52f3-0506-49a3-b4bc-279e276d47ef/consoles/Ceramics">
+      <provider selected="true" editor-type-id="0.CONSOLE">
+        <state line="9" column="21" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" current-schema="public" session-id="MAIN" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html/RegisterForm.html" />
+    <entry file="file://$PROJECT_DIR$/Html/ENG_HomePage.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/OnLoadExecutor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/SideMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/SignInForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UK_HomePage.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/ContactGo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/GoHome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/UK_HomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/EN_HomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228750">
+          <caret line="15263" column="6" selection-start-line="15263" selection-start-column="6" selection-end-line="15263" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4950">
+          <caret line="330" column="2" selection-start-line="330" selection-start-column="2" selection-end-line="330" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/RegistrationForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/RegistrValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/OptClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="108" column="50" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#main#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/RegistrSubmit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

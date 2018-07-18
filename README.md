@@ -1,2 +1,0 @@
-# Ceramics
-Ceramics from Nadvirna
