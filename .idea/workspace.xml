@@ -4,13 +4,10 @@
     <list default="true" id="57304fdd-2dd8-486c-92b2-ea3ba9641dbd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS_Ceramics.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_Ceramics.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/ENG_HomePage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/ContactGo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/OnLoadExecutor.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/OnLoadExecutor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/RegistrationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/RegistrationForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/SideMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/SideMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/SignInForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/SignInForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UKR_HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/EN_HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/EN_HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/OptClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/OptClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/RegistrSubmit.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/RegistrSubmit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opt_Client.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Opt_Client.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +27,8 @@
       <file leaf-file-name="HomePage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="108" column="50" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
+            <state relative-caret-position="519">
+              <caret line="112" column="102" selection-start-line="112" selection-start-column="102" selection-end-line="112" selection-end-column="102" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#main#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -40,23 +37,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegistrSubmit.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScript/RegistrSubmit.js">
+      <file leaf-file-name="RegistrValidation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/RegistrValidation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            <state relative-caret-position="225">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegistrValidation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript/RegistrValidation.js">
+      <file leaf-file-name="RegistrationForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/RegistrationForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrSubmit.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/RegistrSubmit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptClient.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/OptClient.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -65,16 +80,7 @@
         <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228750">
-              <caret line="15263" column="6" selection-start-line="15263" selection-start-column="6" selection-end-line="15263" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CSS_Ceramics.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4950">
-              <caret line="330" column="2" selection-start-line="330" selection-start-column="2" selection-end-line="330" selection-end-column="2" />
+              <caret line="15263" column="4" selection-start-line="15263" selection-start-column="4" selection-end-line="15263" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -106,7 +112,6 @@
       <find>la</find>
       <find>input</find>
       <find>sign</find>
-      <find>close</find>
       <find>galleryV</find>
       <find>contacts</find>
       <find>con</find>
@@ -119,6 +124,7 @@
       <find>formb</find>
       <find>op</find>
       <find>\n</find>
+      <find>close</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -155,7 +161,6 @@
         <option value="deca52f3-0506-49a3-b4bc-279e276d47ef/consoles/Ceramics 1" />
         <option value="deca52f3-0506-49a3-b4bc-279e276d47ef/consoles/Ceramics" />
         <option value="$PROJECT_DIR$/JavaScript/OnLoadExecutor.js" />
-        <option value="$PROJECT_DIR$/JavaScript/OptClient.js" />
         <option value="$PROJECT_DIR$/GoHome.js" />
         <option value="$PROJECT_DIR$/UKR_HomePage.html" />
         <option value="$PROJECT_DIR$/JavaScript/GoHome.js" />
@@ -164,10 +169,11 @@
         <option value="$PROJECT_DIR$/JavaScript/ENG_HomePage.js" />
         <option value="$PROJECT_DIR$/UK_HomePage.js" />
         <option value="$PROJECT_DIR$/JavaScript/UK_HomePage.js" />
-        <option value="$PROJECT_DIR$/JavaScript/EN_HomePage.js" />
-        <option value="$PROJECT_DIR$/CSS_Ceramics.css" />
         <option value="$PROJECT_DIR$/HomePage.html" />
         <option value="$PROJECT_DIR$/JavaScript/RegistrValidation.js" />
+        <option value="$PROJECT_DIR$/JavaScript/EN_HomePage.js" />
+        <option value="$PROJECT_DIR$/CSS_Ceramics.css" />
+        <option value="$PROJECT_DIR$/JavaScript/OptClient.js" />
         <option value="$PROJECT_DIR$/JavaScript/RegistrSubmit.js" />
       </list>
     </option>
@@ -181,10 +187,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="725" />
+    <option name="height" value="714" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -194,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,7 +217,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,14 +351,19 @@
       <workItem from="1531403305798" duration="1599000" />
       <workItem from="1531418081132" duration="1665000" />
       <workItem from="1531419904592" duration="1627000" />
+      <workItem from="1532027979211" duration="1733000" />
+      <workItem from="1532034385657" duration="634000" />
+      <workItem from="1532036170871" duration="1085000" />
+      <workItem from="1532041592516" duration="1773000" />
+      <workItem from="1532043536048" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201866000" />
+    <option name="totallyTimeSpent" value="208305000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="716" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="714" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.25019857" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -360,19 +371,19 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" sideWeight="0.4988086" weight="0.32998326" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50119144" side_tool="true" weight="0.32998326" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.505" side_tool="true" weight="0.25019857" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998326" />
-      <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.25019857" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49921876" weight="0.64451826" />
+      <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.25019857" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33221477" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33164984" />
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="DB Execution Console" order="9" sideWeight="0.4988086" weight="0.32998326" />
@@ -386,13 +397,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="DB Browser" order="2" sideWeight="0.4925" weight="0.32962668" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49921876" weight="0.64451826" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3338843" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32998326" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50119144" side_tool="true" weight="0.32998326" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3338843" />
       <window_info id="Favorites" order="3" sideWeight="0.50119334" side_tool="true" weight="0.25019857" />
     </layout-to-restore>
   </component>
@@ -617,13 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/SignInForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UK_HomePage.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript/ContactGo.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -648,53 +652,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/EN_HomePage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+        <state relative-caret-position="330">
+          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+    <entry file="file://$PROJECT_DIR$/JavaScript/SignInForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228750">
-          <caret line="15263" column="6" selection-start-line="15263" selection-start-column="6" selection-end-line="15263" selection-end-column="6" />
+        <state relative-caret-position="945">
+          <caret line="63" selection-start-line="63" selection-end-line="71" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS_Ceramics.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4950">
-          <caret line="330" column="2" selection-start-line="330" selection-start-column="2" selection-end-line="330" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/RegistrationForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        <state relative-caret-position="15">
+          <caret line="243" selection-start-line="243" selection-end-line="243" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/RegistrValidation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        <state relative-caret-position="225">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/OptClient.js">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="228750">
+          <caret line="15263" column="4" selection-start-line="15263" selection-start-column="4" selection-end-line="15263" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/RegistrationForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HomePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="108" column="50" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
+        <state relative-caret-position="519">
+          <caret line="112" column="102" selection-start-line="112" selection-start-column="102" selection-end-line="112" selection-end-column="102" />
           <folding>
             <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#main#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -702,10 +706,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/OptClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/RegistrSubmit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        <state relative-caret-position="135">
+          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
         </state>
       </provider>
     </entry>

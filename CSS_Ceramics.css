@@ -242,6 +242,16 @@ footer {
 .closeBtn {
     float: right;
 }
+.closeBtn span:hover {
+    color: crimson;
+}
+#closeBtnOpt {
+    margin-right: 1.5em;
+    font-size: 1.5em;
+}
+#closeBtnOpt:hover {
+    color: crimson;
+}
 #RegistrationForm span:hover {
     color: crimson;
 }
@@ -302,7 +312,7 @@ html, body {
     width: 85%;
 }
 
-#FormBtn input{
+#FormBtn input, button {
     color: rgb(26, 165, 144);
     font-weight: bolder;
     display: inline;
@@ -310,24 +320,55 @@ html, body {
     margin-top: 5em;
     margin-left: 7em;
 }
-/*
-.Gallery-item-outer img {
-    display: inline;
-    float: left;
-    border: #00b3ff solid 3px;
+.CostCount select{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-left: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 100%;
 }
-.GalleryBox {
-    display: inline-block;
+.CostCount label {
+    margin-left: 2em;
+}
+.CostCount h2{
+    text-align: center;
+}
+.CostCount input {
+    margin-left: 1em;
+}
+.CostCount  button {
+    width: fit-content;
+    margin-left: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    align-items: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 100%;
+}
+.CostCount table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: smaller;
+}
+#selectProd {
+    color: rgb(26, 165, 144);
+}
+#selectCurrency {
+    color: rgb(26, 165, 144);
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-
-input:invalid {
-    border: 2px solid red;
+#submitInvoice {
+    position: fixed;
+    text-align: center;
+    bottom: 1em;
+    width: 100%;
+    border: red;
 }
-input:valid {
-    border: 2px solid black;
+#submitInvoice button {
+    width: 20% !important;
+    margin: 0 auto!important;
 }
-
-*/
-
 

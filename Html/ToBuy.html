@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Придбати</title>
+    <script src="../JavaScript/Redirection.js"></script>
+    <link rel="stylesheet" type="text/css" href="../CSS_Ceramics.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="../favicon.pgn" type="image/pgn" sizes="16x16">
+    <script src="../JavaScript/Invoice.js"></script>
+
+</head>
+
+<body>
+<div>
+    <div class = "CostCount">
+        <div class="HeaderIcon">
+        <i onclick="goHome()" class="fa fa-home" style="float: left; margin-left: 1em"></i>
+        </div>
+        <h2>ЗРОБИТИ ЗАМОВЛЕННЯ</h2>
+        <div id="selectProduct">
+            <label for = "selectProd">Товар:</label>
+        <select id="selectProd" onchange = "activeBtn()">
+            <option selected disabled>Виберіть товар</option>
+            <option>Листівки нашого міста</option>
+            <option>Тарілки з розписом</option>
+            <option>Друзі наші менші</option>
+            <option>Хатинки</option>
+        </select>
+        </div>
+        <label for="quantity">Кількість:</label>
+        <input id="quantity" type="number">
+        <label for = "price">Ціна за одиницю, EUR:</label>
+        <input id = "price" onfocus="myPrice()">
+        <label for = "selectCurrency">Валюта:</label>
+        <select id = "selectCurrency">
+            <option selected>EUR</option>
+            <option>UAH</option>
+            <option>PLN</option>
+            <option>USD</option>
+            <option>HUF</option>
+            <option>BGN</option>
+            <option>RON</option>
+        </select>
+        <br>
+        <button id = "btnCount" onclick="costCount()">Розрахувати</button>
+        <br>
+        <label for = "rate">Курс валюти:</label>
+        <input id = "rate">
+        <label for = "priceNewCurrency">Ціна за одиницю<span id = "priceCurrency"></span></label>
+        <input id = "priceNewCurrency">
+        <label for = "cost">Вартість<span id = "costCurrency" ></span></label>
+        <input id = "cost">
+        <br>
+        <button id = "btnInvoice" onclick="addToInvoice()">Додати до накладної</button>
+        <div id="invoiceNew" style="display: none">
+                <h2>НАКЛАДНА</h2>
+                    <table id="invoiceNewOne" style="width:100%">
+                        <tr>
+                            <th id = "invoiceNumber"> № </th>
+                            <th>Назва товару</th>
+                            <th>Кількість</th>
+                            <th>Ціна за одиницю<span id="invoicePriceCurrency"></span></th>
+                            <th>Вартість<span id = "invoiceCostCurrency"></span></th>
+                        </tr>
+                    </table>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

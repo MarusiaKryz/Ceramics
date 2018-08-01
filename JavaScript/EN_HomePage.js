@@ -17,8 +17,11 @@ function changeToEng() {
     document.body.innerHTML = document.body.innerHTML.replace('Відмінити', 'Reset');
     document.body.innerHTML = document.body.innerHTML.replace('Підтвердити', 'Submit');
     document.body.innerHTML = document.body.innerHTML.replace('КОНТАКТНА ІНФОРМАЦІЯ', 'CONTACTS');
-    document.body.innerHTML = document.body.innerHTML.replace('вул. О.Степанівни, м. Надвірна, 76000, обл.Івано-Франківська',
-        'Oleny Stepanivny str., Nadvirna, Ivano-Frankivsk rgn.');
+    document.body.innerHTML = document.body.innerHTML.replace('вул. О.Степанівни,', 'Oleny Stepanivny str.,');
+    document.body.innerHTML = document.body.innerHTML.replace('м. Надвірна, 76000', 'Nadvirna, 76000');
+    document.body.innerHTML = document.body.innerHTML.replace('обл.Івано-Франківська', 'Ivano-Frankivsk rgn.');
+    document.body.innerHTML = document.body.innerHTML.replace('тел.: 097-777-7777','cell: 097-777-7777');
+
     document.getElementById("EN").style.textDecoration = "underline";
     document.getElementById("UK").style.textDecoration = "none";
     document.getElementsByTagName("h1")[0].style.color = "rgb(102, 42, 168)";

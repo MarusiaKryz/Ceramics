@@ -4,20 +4,21 @@
     <meta charset="utf-8"/>
 
     <title>Ceramics</title>
-    <link rel="stylesheet" type="text/css" href="CSS_Ceramics.css">
+    <link rel="stylesheet" type="text/css" href="../CSS_Ceramics.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="icon" href="favicon.pgn" type="image/pgn" sizes="16x16">
-    <script src="JavaScript/EN_HomePage.js"></script>
-    <script src="JavaScript/UK_HomePage.js"></script>
-    <script src="JavaScript/SideMenu.js"></script>
-    <script src="JavaScript/OptClient.js"></script>
-    <script src="JavaScript/RegistrationForm.js"></script>
-    <script src="JavaScript/RegistrSubmit.js"></script>
-    <script src="JavaScript/RegistrValidation.js"></script>
-    <script src="JavaScript/SignInForm.js"></script>
-    <script src="JavaScript/ContactGo.js"></script>
-    <script src="JavaScript/OnLoadExecutor.js"></script>
-    <script src="JavaScript/GoHome.js"></script>
+    <link rel="icon" href="../favicon.pgn" type="image/pgn" sizes="16x16">
+    <script src="../JavaScript/EN_HomePage.js"></script>
+    <script src="../JavaScript/UK_HomePage.js"></script>
+    <script src="../JavaScript/SideMenu.js"></script>
+    <script src="../JavaScript/OptClient.js"></script>
+    <script src="../JavaScript/RegistrationForm.js"></script>
+    <script src="../JavaScript/RegistrSubmit.js"></script>
+    <script src="../JavaScript/RegistrValidation.js"></script>
+    <script src="../JavaScript/SignInForm.js"></script>
+    <script src="../JavaScript/ContactGo.js"></script>
+    <script src="../JavaScript/OnLoadExecutor.js"></script>
+    <script src="../JavaScript/Redirection.js"></script>
+    <script src="../JavaScript/Invoice.js"></script>
 </head>
 
 <body onload = "onLoadExecutor()">
@@ -30,7 +31,6 @@
 <!--HEADER-->
 <header>
     <div class="HeaderIcon">
-        <!--<a href="HomePage.html"></a> -->
         <i onclick="goHome()" class="fa fa-home" style="float: left; margin-left: 1em"></i>
         <i onclick="sideMenu()" class="fa fa-bars" style="float: right; margin-right: 1em"></i>
     </div>
@@ -49,7 +49,7 @@
 
     <!--Gallery-->
     <div class="Gallery">
-        <a href="Html/GalleryView.html">
+        <a href="GalleryView.html">
             <i class="fa fa-file-image-o"></i>
             <p>Галерея</p>
         </a>
@@ -74,7 +74,7 @@
         <nav class="NavStyle">
             <ul>
                 <li onclick="goHome()">Головна</li>
-                <li>Придбати</li>
+                <li onclick="toBuy()">Придбати</li>
                 <li id="Wholesale" onclick="loadDoc()">Оптовим клієнтам</li>
                 <li>Доставка і оплата</li>
                 <li id="Contact">Контакти</li>
@@ -110,7 +110,7 @@
                             <br>
                             <div id="FormBtn">
                                 <input value="Відмінити" type="reset" class="FormBtnR">
-                                <input value="Підтвердити" type="submit" id="FormBtnS" onclick="submitRegForm()">
+                                <button id="FormBtnS" onclick="submitRegForm()">Підтвердити</button>
                                 <p id = "MessageValidation"></p>
                             </div>
                         </form>
